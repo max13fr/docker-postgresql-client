@@ -12,8 +12,8 @@ RUN apt-get update \
         less \
     && rm -rf /var/lib/apt/lists/*
 
-COPY .vimrc /root
-COPY .psqlrc /root
+COPY .vimrc /root/
+COPY .psqlrc /root/
 
 COPY docker-entrypoint.sh /
 

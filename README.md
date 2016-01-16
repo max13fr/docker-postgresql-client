@@ -2,7 +2,10 @@
 
 Postgresql-client with an auto-connection to a postgresql database under docker.
 
-Improve also psql command (add default .psqlrc, and install vim & less packages).
+Improve also psql command : 
+* install vim & less packages
+* add default .psqlrc
+* add default .vimrc (for editing function \ef)
 
 ## Usage
 

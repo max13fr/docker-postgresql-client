@@ -9,7 +9,7 @@ Improve also psql command :
 
 ## Usage
 
-Link your postgres container to database name (allow the autoconnection) :
+Just need to link your postgres db container with the name 'database' to allow the autoconnection :
 
 <pre>
 docker run -it --rm --link container_db_name:database postgresql-client:9.5

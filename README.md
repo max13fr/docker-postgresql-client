@@ -2,7 +2,7 @@
 
 Postgresql-client with an auto-connection to a postgresql database under docker. Improve also psql client (default .psqlrc, vim & less packages).
 
-h2. Usage
+## Usage
 
 Link your postgres container to database name (allow the autoconnection) :
 

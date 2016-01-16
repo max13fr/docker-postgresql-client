@@ -1,6 +1,6 @@
 # Docker : postgresql-client 9.5
 
-Postgresql-client with an auto-connection to a postgresql database under docker.
+Postgresql-client with an auto-connection to a postgresql docker database.
 
 Improve also psql command : 
 * install vim & less packages

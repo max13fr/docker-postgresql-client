@@ -1,4 +1,4 @@
-# Docker : psql 9.5
+# Docker : psql 9.6
 
 Postgresql-client with an auto-connection to a postgresql docker database.
 
